@@ -10,10 +10,10 @@ pkgbase = ps3-disc-dumper-bin
 	depends = gcc-libs
 	options = !strip
 	source = https://github.com/13xforever/ps3-disc-dumper/releases/download/v4.3.6/ps3-disc-dumper_linux_v4.3.6.zip
-	source = https://github.com/13xforever/ps3-disc-dumper/archive/refs/tags/v4.3.6.zip
+	source = https://github.com/13xforever/ps3-disc-dumper/archive/refs/tags/v4.3.6.tar.gz
 	source = ps3-disc-dumper.desktop
-	md5sums = SKIP
-	md5sums = SKIP
-	md5sums = SKIP
+	b2sums = 7da0b5b6a762d07deee537b82df0a3daebf2bb540b79c6a590af959a380d3c034dbb884c71b84485310ac39329661df7704d3795c69c8bdddd4f30fbb1a8286d
+	b2sums = a79ce33969a60cae727b41fd3bc969be78eb8244911e6c4ad978623f4763f8d8c28c27c9418dc4a40593d0ca613a9b16a63296b514a8c20ba333036b8e0b6de6
+	b2sums = 06b17f6705cd3e82e3d6cade872e25464346c00624fce88f1f5a3d3ebc1d163a4a5d0f73ba1fe07e0f5f372c7510f054976bd416bcb1088fb4b05487fcaba0d7
 
 pkgname = ps3-disc-dumper-bin
