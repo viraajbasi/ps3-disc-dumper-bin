@@ -1,10 +1,9 @@
 # Maintainer: Viraaj Basi <viraajbasi@gmail.com>
 pkgname=ps3-disc-dumper-bin
 pkgver=4.3.6
-pkgrel=3
+pkgrel=4
 pkgdesc="A handy utility to make decrypted PS3 disc dumps"
 arch=('x86_64')
-replaces=('ps3-disc-dumper')
 provides=('ps3-disc-dumper')
 conflicts=('ps3-disc-dumper')
 url="https://github.com/13xforever/ps3-disc-dumper"
