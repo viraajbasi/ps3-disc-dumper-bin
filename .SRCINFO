@@ -1,6 +1,6 @@
 pkgbase = ps3-disc-dumper-bin
 	pkgdesc = A handy utility to make decrypted PS3 disc dumps
-	pkgver = 4.4.4
+	pkgver = 4.5.1
 	pkgrel = 1
 	url = https://github.com/13xforever/ps3-disc-dumper
 	arch = x86_64
@@ -11,11 +11,11 @@ pkgbase = ps3-disc-dumper-bin
 	provides = ps3-disc-dumper
 	conflicts = ps3-disc-dumper
 	options = !strip
-	source = https://github.com/13xforever/ps3-disc-dumper/releases/download/v4.4.4/ps3-disc-dumper_linux_v4.4.4.zip
-	source = https://github.com/13xforever/ps3-disc-dumper/archive/refs/tags/v4.4.4.tar.gz
+	source = https://github.com/13xforever/ps3-disc-dumper/releases/download/v4.5.1/ps3-disc-dumper_linux_v4.5.1.zip
+	source = https://github.com/13xforever/ps3-disc-dumper/archive/refs/tags/v4.5.1.tar.gz
 	source = ps3-disc-dumper.desktop
-	b2sums = 6505f6c0702133d68a094fc6da88dc3117ea8dedea09a3d6ce759338885fb10105afd54ec46ed8d01e8ff0ae6deb97634a5b57a9ca56fd73b169b7ed4825e030
-	b2sums = 648dfd62ede77f0578817651f4b1b1fcc068d7160539fd472af1ccf0d336b5766f4f1399d37c5d345e0627e65dcebdbcf3dc454b0dd5cedbd3cca35e653ecbea
+	b2sums = 51773fc51d47272d9be4d3bd8a9e9e94f6926a2bd50623b7700c0283d8ef9f524e23a259d91b731bcbbc7ae7575a49ab52e7007cb6abf75756e3179196754772
+	b2sums = fc051c4c9f955c351f2367dec8b1f678cfc76eab164c5c03703835d52225795a72ebc99ceec911a56a4ef7cd9cefd656dfd99cf978a9dc14c94c137af7f4cca4
 	b2sums = 06b17f6705cd3e82e3d6cade872e25464346c00624fce88f1f5a3d3ebc1d163a4a5d0f73ba1fe07e0f5f372c7510f054976bd416bcb1088fb4b05487fcaba0d7
 
 pkgname = ps3-disc-dumper-bin
